@@ -1,7 +1,7 @@
 # Goblin Ambush
 ---
 
-_From_: [Cold Opening](./cold-opening.md)
+_From_: [Cold Opening](../scenes/cold-opening.md)
 
 ### Encounter Details
 - 4 Goblins ambush the party.
@@ -47,4 +47,4 @@ _From_: [Cold Opening](./cold-opening.md)
 >***Shortbow.*** *Ranged Weapon Attack:* +4 to hit, range 80/320 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
 
 ---
-[Back](./plot.md)
+[Back](./encounters.md)
