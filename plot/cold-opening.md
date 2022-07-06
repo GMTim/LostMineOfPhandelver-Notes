@@ -14,4 +14,4 @@
  _GoTo_: [Goblin Ambush](./goblin-ambush.md)
 
 ---
-[Back](../index.md)
+[Back](./plot.md)
