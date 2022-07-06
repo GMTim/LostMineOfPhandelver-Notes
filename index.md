@@ -3,4 +3,7 @@
 
 - **[Plot](plot/plot.md)**
 
+---
+
 - **[Locations](locations/locations.md)**
+- **[NPCs](./npcs/npcs.md)**

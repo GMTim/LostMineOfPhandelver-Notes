@@ -1,6 +1,8 @@
 # Gundren Rockseeker
 ---
 
+![Gundren Rockseeker](./images/gundren-rockseeker.webp)
+
 ### Important Info
  - Is the initial employer of the party, set into motion the [Cold Opening](../plot/cold-opening.md).
 
