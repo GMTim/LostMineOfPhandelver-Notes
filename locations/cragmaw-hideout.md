@@ -42,14 +42,19 @@ If the players captured a goblin, they might get it to reveal the following.
 
 >### 3. Kennel
 **Description**
- - Narrow path leading into the cavern.
+ - Narrow path leading into the cavern, a sharp right and up some stairs.
  - Sounds and smells of savage animals up ahead.
- - Come into cavern and 3 wolves chained to iron rods driven into stalagmites.
+ - Come into cavern and 3 wolves chained to iron rods driven into stalagmites.  
+ _**After Entering Room**_
+ - 30 foot fissure in east wall.
 
- **DM Notes**
+ **DM Notes**  
  - 3 wolves will attack anyone who enters the room. Run encounter [Kennel](../encounters/crawmaw-hideout-3-kennel.md).
  - `DC 15 Animal Handling` check to calm the wolves. Drops to `DC 10` if wolves are fed.
-
+ - Every round the players don't enter the room, `DC 15 Str` check (`+1`) for the wolves to pull the rods free and attack the party.
+ _**Room**_  
+ - A 30 foot fissure in the east wall can be climbed down with `DC 10 Athletics` check every 10 feet to make it to [area 8](#8-klargs-cave). On a 5 or less character falls, takes `d6 bludgeoning` damage per 10 feet.
+ 
 >### 4. Steep Passage
 >### 5. Overpass
 >### 6. Goblin Den
