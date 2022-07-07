@@ -6,6 +6,7 @@
 
 ### Scenes
  - [Cold Opening](../scenes/cold-opening.md)
+ - [Goblin Trail](../scenes/goblin-trail.md)
 
 ### Quests
  - [Provisions Delivery](../quests/provisions-delivery.md)

@@ -8,6 +8,8 @@ _From_: [Cold Opening](../scenes/cold-opening.md)
 - Check for surprise, goblins have +6 stealth.
 - 2 will come into melee, 2 will stay at range.
 - When 3 goblins are down, last one will try to run away.
+- If goblins defeat the players, they will leave them unconscious and steal the contents of the wagon.
+- Captured goblins can be persuaded to lead party to [Cragmaw Hideout](../locations/cragmaw-hideout.md).
 
 ### Description
 - Forested roadside.
@@ -15,6 +17,9 @@ _From_: [Cold Opening](../scenes/cold-opening.md)
 - One melee goblin has a really pointed head.
 - One ranged goblin is missing all but two fingers on it's right hand.
 - One ranged goblin has a pronounced underbite.
+
+### After Encounter
+ - Goto scene [Goblin Trail](../scenes/goblin-trail.md)
 
 |Scar|Pointy|Fingers|Underbite|
 |:--:|:----:|:-----:|:-------:|
