@@ -1,6 +1,7 @@
-# Lost Mine of Phandelver
+# [Lost Mine of Phandelver](https://5e.tools/adventure.html#lmop)
 ---
 
+Start Here
 - **[Plot](./plot.md)**
 
 ---
