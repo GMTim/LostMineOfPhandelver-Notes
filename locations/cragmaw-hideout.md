@@ -41,6 +41,15 @@ If the players captured a goblin, they might get it to reveal the following.
  - Run encounter [Goblin Blind](../encounters/crawmaw-hideout-2-goblin-blind.md).
 
 >### 3. Kennel
+**Description**
+ - Narrow path leading into the cavern.
+ - Sounds and smells of savage animals up ahead.
+ - Come into cavern and 3 wolves chained to iron rods driven into stalagmites.
+
+ **DM Notes**
+ - 3 wolves will attack anyone who enters the room. Run encounter [Kennel](../encounters/crawmaw-hideout-3-kennel.md).
+ - `DC 15 Animal Handling` check to calm the wolves. Drops to `DC 10` if wolves are fed.
+
 >### 4. Steep Passage
 >### 5. Overpass
 >### 6. Goblin Den

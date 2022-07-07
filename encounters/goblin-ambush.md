@@ -21,7 +21,7 @@ _From_: [Cold Opening](../scenes/cold-opening.md)
 ### After Encounter
  - Goto scene [Goblin Trail](../scenes/goblin-trail.md)
 
-||Scar|Pointy|Fingers|Underbite|
+||[Scar](#goblin)|[Pointy](#goblin)|[Fingers](#goblin)|[Underbite](#goblin)|
 |:-:|:-:|:-:|:-:|:-:|
 |HP|7|7|7|7|
 |AC|15|15|15|15|

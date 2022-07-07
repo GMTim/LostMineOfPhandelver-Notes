@@ -10,7 +10,7 @@ _Encounter Details and Description_: See [Cragmaw Hideout 2. Goblin Blind](../lo
  ### DM Notes
   - The tattoo'd goblin has a tattoo of [Bargrivyek](https://dungeonsdragons.fandom.com/wiki/List_of_Dungeons_%26_Dragons_goblinoid_deities). And evil goblin god who is all about cooperation between goblins. `DC 15 Religion` check to know this fact.
 
-  ||Beady|Tattoo|
+  ||[Beady](#goblin)|[Tattoo](#goblin)|
   |:-:|:-:|:-:|
   |HP|7|7|
   |AC|15|15|
