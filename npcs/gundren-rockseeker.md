@@ -5,7 +5,8 @@
 
 ### Important Info
  - Is the initial employer of the party, set into motion the [Cold Opening](../scenes/cold-opening.md).
- - Give Quest [Provisions Delievery](../quests/provisions-delivery.md)
+ - Give Quest [Provisions Delivery](../quests/provisions-delivery.md)
+ - Employer of [Sildar Hallwinter](./sildar-hallwinter.md)
 
 ### Stat Block
 >## [Gundren Rockseeker](https://5e.tools/bestiary.html#gundren%20rockseeker_lmop)
