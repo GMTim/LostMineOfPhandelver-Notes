@@ -74,6 +74,7 @@ If the players captured a goblin, they might get it to reveal the following.
 
 **DM Notes**
 - Lazy goblin stands guard on bridge, if characters make a `DC 9 Stealth` check with no light sources he won't notice them. Otherwise he runs off to [area 7](#7-twin-pools-cave) and triggers the flood event. If this happens run encounter [Tiwn Pools Cave](../encounters/cragmaw-hideout-7-twin-pools-cave.md#dm-notes).
+- If party comes here after dealing with [area 7](#7-twin-pools-cave), run encounter [Twin Pools Cave](../encounters/cragmaw-hideout-7-twin-pools-cave.md), but with only pothead. And he'll try and run away.
 - Players will notice the goblin with a `PP 13`.
 - Bridge has `AC5`; `HP10`. `2d6 bludgeoning` damage to anything that falls when bridge is destroyed.
 - Can climb onto bridge with `DC 15 Athletics` check.
@@ -100,5 +101,16 @@ If [Sildar](../npcs/sildar-hallwinter.md) lives, he reveals the following inform
 - He will stay with the party, but has no weapons or armor. He'll use a shortsword from a goblin, or any weapon the players might loan him.
 
 >### 7. Twin Pools Cave
+**Description**
+- Cave is half filled with water, unless Flood happened.
+- A waterfall feeds the pool of water.
+- The pool drains into the stream that leads out.
+- Lots of piled stones make a dam.
+- Large exit farside of cavern.
+- Hard to hear anything in here, because of waterfall.
+
+**DM Notes**
+- Run encounter [Twin Pools Cave](../encounters/cragmaw-hideout-7-twin-pools-cave.md)
+
 >### 8. Klarg's Cave
 >### 9. Overpass

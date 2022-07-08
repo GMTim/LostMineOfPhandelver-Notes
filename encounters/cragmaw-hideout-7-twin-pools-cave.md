@@ -6,16 +6,22 @@ _Encounter Details and Description_:
  - If from Flood see [Cragmaw Hideout 5. Overpass](../locations/cragmaw-hideout.md#5-overpass)
 
 ### Description
+- 3 goblins, and possibly 4 if goblin from [area 5](../locations/cragmaw-hideout.md#5-overpass) spotted the party.
+- One has swollen crooked nose.
+- One has shaved head.
+- One has terrible but healed burn on face.
+- One from [area 5](../locations/cragmaw-hideout.md#5-overpass) has a pot on his head.
 
 ### DM Notes
+- When the fight starts one goblin will try to run to [area 8](../locations/cragmaw-hideout.md#8-klargs-cave) and warn everyone there.
 - If party triggered flood event, then the goblins will break the dam on one of the pools and wait and see if they got the party, if not they'll break the second dam. `DC 10 Dex` save to get out of the way of the flood waters, or `DC 15 Str` save to hold on. On failed save, player is knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb), and swept to [area 1](../locations/cragmaw-hideout.md#1-cave-mouth), and takes `d6 bludgeoning` damage.
 
-||[Cloak (Leader)](#goblin)|[Headband](#goblin)|[Toes](#goblin)|[Pus](#goblin)|[Hook](#goblin)|[No-Nose](#goblin)|[Pothead](#goblin)*|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|HP|12|7|7|7|7|7|7|
-|AC|15|15|15|15|15|15|15|
-|Hit|+4|+4|+4|+4|+4|+4|+4|
-|Dmg|d6+2s/p|d6+2s/p|d6+2s/p|d6+2s/p|d6+2s/p|d6+2s/p|d6+2s/p|
+||[Crooked Nose](#goblin)|[Shaved Head](#goblin)|[Burn Face](#goblin)|[Pothead](#goblin)*|
+|:-:|:-:|:-:|:-:|:-:|
+|HP|7|7|7|7|
+|AC|15|15|15|15|
+|Hit|+4|+4|+4|+4|
+|Dmg|d6+2s/p|d6+2s/p|d6+2s/p|d6+2s/p|
 
 ![Goblin](../monsters/images/goblin.png)
 ___
