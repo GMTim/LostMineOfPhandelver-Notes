@@ -46,14 +46,13 @@ If the players captured a goblin, they might get it to reveal the following.
  - Sounds and smells of savage animals up ahead.
  - Come into cavern and 3 wolves chained to iron rods driven into stalagmites.  
  _**After Entering Room**_
- - 30 foot fissure in east wall.
+ - 30 foot fissure in east wall leading up.
 
  **DM Notes**  
  - 3 wolves will attack anyone who enters the room. Run encounter [Kennel](../encounters/cragmaw-hideout-3-kennel.md).
  - `DC 15 Animal Handling` check to calm the wolves. Drops to `DC 10` if wolves are fed.
  - Every round the players don't enter the room, `DC 15 Str` check (`+1`) for the wolves to pull the rods free and attack the party.
- _**Room**_  
- - A 30 foot fissure in the east wall can be climbed down with `DC 10 Athletics` check every 10 feet to make it to [area 8](#8-klargs-cave). On a 5 or less character falls, takes `d6 bludgeoning` damage per 10 feet.
+ - A 30 foot fissure in the east wall can be climbed up with `DC 10 Athletics` check every 10 feet to make it to [area 8](#8-klargs-cave). On a 5 or less character falls, takes `d6 bludgeoning` damage per 10 feet.
  
 >### 4. Steep Passage
 **Description**
@@ -113,4 +112,15 @@ If [Sildar](../npcs/sildar-hallwinter.md) lives, he reveals the following inform
 - Run encounter [Twin Pools Cave](../encounters/cragmaw-hideout-7-twin-pools-cave.md)
 
 >### 8. Klarg's Cave
->### 9. Overpass
+**Description**
+- Large sacks of provisions, with a blue lion stamped on them in the south.
+- A sloping floor to the west leads to a narrow opening that descends into darkness.
+- Some stone steps leads north, sound of crashing water from that direction.
+- Large fire pit with smoldering coals in the middle of the room.
+
+**DM Notes**
+- Klarg speaks in the 3rd person.
+- Fire pit deals `1 fire` damage, or `d6 fire` damage is falling into.
+- Opening in west of room leads down to [area 3](#3-kennel). Can be climbed up with `DC 10 Athletics` check every 10 feet. On a 5 or less character falls, takes `d6 bludgeoning` damage per 10 feet.
+- Provisions are the property of the [Lionshield Coster](../locations/phandalin.md#lionshield-coster) in [Phandalin](../locations/phandalin.md#lionshield-coster.md).
+- Run encounter [Klarg's Cave](../encounters/cragmaw-hideout-8-klargs-cave.md).
