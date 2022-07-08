@@ -1,7 +1,5 @@
 # Sildar Hallwinter
 
-![Sildar Hallwinter](./images/sildar-hallwinter.webp)
-
 ### Important Info
  - Initially encountered in [Cragmaw Hideout](../locations/cragmaw-hideout.md#6-goblin-den).
  - Sellsword and working for [Gundren Rockseeker](gundren-rockseeker.md)
@@ -12,6 +10,9 @@
 - From [Waterdeep](../locations/waterdeep.md)
 - Member of the Lords' Alliance, a group looking to protect civilization.
 - Met [Gundren](./gundren-rockseeker.md) in [Neverwinter](../locations/neverwinter.md), and agreed to escort him to [Phandalin](../locations/phandalin.md).
+
+
+![Sildar Hallwinter](./images/sildar-hallwinter.webp)
 
 ___
 >## [Sildar Hallwinter](https://5e.tools/bestiary.html#sildar%20hallwinter_lmop) (He/Him)

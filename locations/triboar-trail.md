@@ -1,15 +1,16 @@
 # Tiboar Trail
 ---
 
-### Encounters
- - [Goblin Ambush](../encounters/goblin-ambush.md)
+### Description
+- A well maintained dirt road with heavy forest on both sides of the road.
+- Party is on a wagon full of supplies headed toward [Barthens Provisions](./phandalin.md#barthens-provisions) in [Phandalin](./phandalin.md).
 
-### Scenes
- - [Cold Opening](../scenes/cold-opening.md)
- - [Goblin Trail](../scenes/goblin-trail.md)
-
-### Quests
- - [Provisions Delivery](../quests/provisions-delivery.md)
+### Instructions
+- Explain that a dwarf named [Gundren Rockseeker](../npcs/gundren-rockseeker.md) has hired you to deliver these supplies to [Barthens Provisions](./phandalin.md#barthens-provisions), and will pay you each 10gp on delivery.
+- [Gundren Rockseeker](../npcs/gundren-rockseeker.md) himself has traveled ahead of the party, and will meet you in [Phandalin](../locations/phandalin.md).
+- Have the party describe themselves. Meet and greet.
+- Run encounter [Goblin Ambush](../encounters/goblin-ambush.md).
+- After encounter party can see an obvious trail that leads off the road. If party follows the trail continue to [Goblin Trail](./goblin-trail.md), otherwise continue to [Phandalin](./phandalin.md).
 
 ---
 [Back](./locations.md)

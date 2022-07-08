@@ -1,16 +1,15 @@
 # Locations
 ---
 
-### Lairs
+### Dungeons
  - [Cragmaw Castle](./cragmaw-castle.md)
  - [Cragmaw Hideout](./cragmaw-hideout.md)
+ - [Wave Echo Cave](./wave-echo-cave.md)
 
 ### Settlements
- - [Neverwinter](./neverwinter.md)
  - [Phandalin](./phandalin.md)
 
- ### Roads
- - [High Road](./high-road.md)
+ ### Wilderness Locations
  - [Tiboar Trail](./triboar-trail.md)
 
 ---

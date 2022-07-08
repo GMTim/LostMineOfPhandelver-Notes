@@ -4,6 +4,10 @@
 ![DM Map](./images/cragmaw-hideout.jpeg)
 [Player Version](./images/cragmaw-hideout-player.jpeg)
 
+### Instructions
+- Start at [area 1](#1-cave-mouth)
+- After exploring this, party will probably head to [Phandalin](../locations/phandalin.md). But they might also set out for [Cragmaw Castle](../locations/cragmaw-castle.md)
+
 ### Features
 - High 20-30 foot ceilings.
 - Area's [1](#1-cave-mouth) and [2](#2-goblin-blind) outside. Rest is in darkness.

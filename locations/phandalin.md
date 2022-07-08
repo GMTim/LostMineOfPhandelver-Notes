@@ -2,10 +2,7 @@
 ---
 
 ### Points of Interest
-- [Barthens Provisions](./barthens-provisions.md)
-
-### Quests
-- [Provisions Delivery](../quests/provisions-delivery.md)
+>### Barthens Provisions
 
 ---
 [Back](./locations.md)
