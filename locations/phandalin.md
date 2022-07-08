@@ -1,4 +1,4 @@
-# Phandalin
+# Phandalin (Fan-Duh-Lin)
 ---
 
 ### Points of Interest

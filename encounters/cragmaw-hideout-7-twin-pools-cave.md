@@ -6,17 +6,8 @@ _Encounter Details and Description_:
  - If from Flood see [Cragmaw Hideout 5. Overpass](../locations/cragmaw-hideout.md#5-overpass)
 
 ### Description
- - 5 goblins and 1 leader goblin. Also possibly goblin from [area 5](../locations/cragmaw-hideout.md#5-overpass) if Flood event is triggered.
- - Leader has a warn looking cloak that was fine at one point, and is not ragged and cut short.
- - One has a belt for a headband.
- - One has small shoes with the toes cut out.
- - One has a sickly green pus-filled sack on its neck.
- - One has hook for a hand.
- - One has no nose.
- - Bridge goblin has a pot for a helmet.
 
 ### DM Notes
-- If it looks like the goblins will lose, then Cloak will drag [Sildar Hallwinter](../npcs/sildar-hallwinter.md) to the edge of [area 8](../locations/cragmaw-hideout.md#8-klargs-cave), and call for a parley with the party. He'll bargain the life of [Sildar](../npcs/sildar-hallwinter.md) for the head of Klarg in [area 8](../locations/cragmaw-hideout.md#8-klargs-cave). If the party declines, then Cloak will drop [Sildar](../npcs/sildar-hallwinter.md) into [area 8](../locations/cragmaw-hideout.md#8-klargs-cave), dropping him to 0 hitpoint. Even if they do it, Cloak will then barging for treasure, going back on his word.
 - If party triggered flood event, then the goblins will break the dam on one of the pools and wait and see if they got the party, if not they'll break the second dam. `DC 10 Dex` save to get out of the way of the flood waters, or `DC 15 Str` save to hold on. On failed save, player is knocked [prone](https://5e.tools/conditionsdiseases.html#prone_phb), and swept to [area 1](../locations/cragmaw-hideout.md#1-cave-mouth), and takes `d6 bludgeoning` damage.
 
 ||[Cloak (Leader)](#goblin)|[Headband](#goblin)|[Toes](#goblin)|[Pus](#goblin)|[Hook](#goblin)|[No-Nose](#goblin)|[Pothead](#goblin)*|

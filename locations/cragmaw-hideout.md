@@ -38,7 +38,7 @@ If the players captured a goblin, they might get it to reveal the following.
 **DM Notes**
  - Splashing across the stream alerts the goblins, no surprise.
  - Careful party could stealth and surprise the goblins.
- - Run encounter [Goblin Blind](../encounters/crawmaw-hideout-2-goblin-blind.md).
+ - Run encounter [Goblin Blind](../encounters/cragmaw-hideout-2-goblin-blind.md).
 
 >### 3. Kennel
 **Description**
@@ -49,7 +49,7 @@ If the players captured a goblin, they might get it to reveal the following.
  - 30 foot fissure in east wall.
 
  **DM Notes**  
- - 3 wolves will attack anyone who enters the room. Run encounter [Kennel](../encounters/crawmaw-hideout-3-kennel.md).
+ - 3 wolves will attack anyone who enters the room. Run encounter [Kennel](../encounters/cragmaw-hideout-3-kennel.md).
  - `DC 15 Animal Handling` check to calm the wolves. Drops to `DC 10` if wolves are fed.
  - Every round the players don't enter the room, `DC 15 Str` check (`+1`) for the wolves to pull the rods free and attack the party.
  _**Room**_  
@@ -73,13 +73,32 @@ If the players captured a goblin, they might get it to reveal the following.
 - A rickety looking bridge spawns above the walkway.
 
 **DM Notes**
-- Lazy goblin stands guard on bridge, if characters make a `DC 9 Stealth` check with no light sources he won't notice them. Otherwise he runs off to [area 7](#7-twin-pools-cave) and triggers the flood event. If this happens run encounter [Tiwn Pools Cave](../encounters/crawmaw-hideout-7-twin-pools-cave.md#dm-notes).
+- Lazy goblin stands guard on bridge, if characters make a `DC 9 Stealth` check with no light sources he won't notice them. Otherwise he runs off to [area 7](#7-twin-pools-cave) and triggers the flood event. If this happens run encounter [Tiwn Pools Cave](../encounters/cragmaw-hideout-7-twin-pools-cave.md#dm-notes).
 - Players will notice the goblin with a `PP 13`.
 - Bridge has `AC5`; `HP10`. `2d6 bludgeoning` damage to anything that falls when bridge is destroyed.
 - Can climb onto bridge with `DC 15 Athletics` check.
 - Bridge connects [area 6](#6-goblin-den) and [area 7](#7-twin-pools-cave).
 
 >### 6. Goblin Den
+**Description**
+- 10ft. high cliff halfway into room with stairs leading down.
+- Hazy air from cook fires.
+- Pungent smell from poorly cured hides, unwashed goblins.
+- 6 goblins and tied up tied up human in cave. Human and leader Yeemik are near the cliff.
+
+**DM Notes**
+- [Sildar Hallwinter](../npcs/sildar-hallwinter.md) is tied up on the far side of the cave from where the players enter. He's at 1 HP.
+- Run encounter [Twin Pools Cave](../encounters/cragmaw-hideout-7-twin-pools-cave.md).
+
+**Information**
+If [Sildar](../npcs/sildar-hallwinter.md) lives, he reveals the following information to the players.
+- [Gundren](../npcs/gundren-rockseeker.md), Tharden, and [Nundro](../npcs/nundro-rockseeker.md) Rockseeker have discovered the location of the [Wave Echo Cave](../locations/wave-echo-cave.md).
+- He knows the [Wave Echo Cave](../locations/wave-echo-cave.md) is a mine that a group of dwarves and gnomes allied together in the Phandelver's Pact to exploit. Along with great wealth it also had great magic. And a group of human wizards helped them create a magical forge called the Forge of Spells, that dwarves could use to create magical items. Until a group of evil wizards and orcs attacked the cave, and the ensuing battle destroyed most of it, and left the entrance lost to time.
+- He knows that Klarg, a bugbear, leads this band of goblins, and was told to capture [Gundren](../npcs/gundren-rockseeker.md) by something called the Black Spider. He was sent to someplace called [Cragmaw Castle](../locations/cragmaw-castle.md), along with a map that reveals where [Wave Echo Cave](../locations/wave-echo-cave.md) is.
+- He tells the party his reason for traveling to [Phandalin](../locations/phandalin.md) was to locate another Lords' Alliance member, [Iarno Albrek](../npcs/iarno-albrek.md), a wizard sent to set up shop in [Phandalin](../locations/phandalin.md), but has not been in contact.
+- He offers the part 50gp to escort him to [Phandalin](../locations/phandalin.md), though he doesn't have it now, he can get it a day after they get there.
+- He will stay with the party, but has no weapons or armor. He'll use a shortsword from a goblin, or any weapon the players might loan him.
+
 >### 7. Twin Pools Cave
 >### 8. Klarg's Cave
 >### 9. Overpass

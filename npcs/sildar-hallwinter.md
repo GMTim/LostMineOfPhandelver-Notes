@@ -6,8 +6,15 @@
  - Initially encountered in [Cragmaw Hideout](../locations/cragmaw-hideout.md#6-goblin-den).
  - Sellsword and working for [Gundren Rockseeker](gundren-rockseeker.md)
 
+### Roleplaying
+- Older, near 50.
+- Kindhearted male
+- From [Waterdeep](../locations/waterdeep.md)
+- Member of the Lords' Alliance, a group looking to protect civilization.
+- Met [Gundren](./gundren-rockseeker.md) in [Neverwinter](../locations/neverwinter.md), and agreed to escort him to [Phandalin](../locations/phandalin.md).
+
 ___
->## Sildar Hallwinter
+>## [Sildar Hallwinter](https://5e.tools/bestiary.html#sildar%20hallwinter_lmop) (He/Him)
 >*Medium humanoid (human), neutral good*
 >___
 >- **Armor Class** 16 (chain mail)
