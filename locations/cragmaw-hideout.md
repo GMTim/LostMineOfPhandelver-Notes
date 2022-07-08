@@ -56,7 +56,29 @@ If the players captured a goblin, they might get it to reveal the following.
  - A 30 foot fissure in the east wall can be climbed down with `DC 10 Athletics` check every 10 feet to make it to [area 8](#8-klargs-cave). On a 5 or less character falls, takes `d6 bludgeoning` damage per 10 feet.
  
 >### 4. Steep Passage
+**Description**
+- Ahead the passage climbs next to the falling water of the stream, and veers off to the east.
+- Darkvision just allows players to see an old bridge above them ahead in [area 5](#5-overpass).
+- `PP 13` with darkvision to notice a goblin stealthily  guarding the bridge.
+- To the west is a passage strewn with debris. It is [difficult terrain](https://5e.tools/quickreference.html#bookref-quick,3,difficult%20terrain). And has a very steep climb about 10 to a ledge.
+
+**DM Notes**
+- The goblin in [area 5](#5-overpass) will sneak off to warn its fellows in [area 7](#7-twin-pools-cave) and unleash the flood. Players must be make a `DC 9 stealth` check with no lights to avoid this.
+- Western passage is dangerous. `PP 12` to notice the steep ledge can't hold much weight.
+- Any player more then 100lbs who climbs up will trigger a collapse.
+
 >### 5. Overpass
+**Description**
+- Stream continues up and another set of uneven steps continues in that direction.
+- A rickety looking bridge spawns above the walkway.
+
+**DM Notes**
+- Lazy goblin stands guard on bridge, if characters make a `DC 9 Stealth` check with no light sources he won't notice them. Otherwise he runs off to [area 7](#7-twin-pools-cave) and triggers the flood event. If this happens run encounter [Tiwn Pools Cave](../encounters/crawmaw-hideout-7-twin-pools-cave.md#dm-notes).
+- Players will notice the goblin with a `PP 13`.
+- Bridge has `AC5`; `HP10`. `2d6 bludgeoning` damage to anything that falls when bridge is destroyed.
+- Can climb onto bridge with `DC 15 Athletics` check.
+- Bridge connects [area 6](#6-goblin-den) and [area 7](#7-twin-pools-cave).
+
 >### 6. Goblin Den
 >### 7. Twin Pools Cave
 >### 8. Klarg's Cave
