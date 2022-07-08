@@ -2,11 +2,14 @@
 ---
 
 ![DM Map](./images/cragmaw-hideout.jpeg)
-[Player Version](./images/cragmaw-hideout-player.jpeg)
+[Player Version](./images/cragmaw-hideout-player.jpeg)  
+[1. Cave Mouth](#1-cave-mouth) | [2. Goblin Blind](#2-goblin-blind) | [3. Kennel](#3-kennel) | [4. Steep Passage](#4-steep-passage)  
+[5. Overpass](#5-overpass) | [6. Goblin Den](#6-goblin-den) | [7. Twin Pools Cave](#7-twin-pools-cave) | [8. Klarg's Cave](#8-klargs-cave)
 
 ### Instructions
-- Start at [area 1](#1-cave-mouth)
-- After exploring this, party will probably head to [Phandalin](../locations/phandalin.md). But they might also set out for [Cragmaw Castle](../locations/cragmaw-castle.md)
+- Start at [area 1](#1-cave-mouth).
+- After exploring this, party will probably head to [Phandalin](../locations/phandalin.md). But they might also set out for [Cragmaw Castle](../locations/cragmaw-castle.md).
+ - Level up party after clearing this location.
 
 ### Features
 - High 20-30 foot ceilings.

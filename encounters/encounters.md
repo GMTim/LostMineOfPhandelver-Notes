@@ -9,7 +9,7 @@
 - **[8. Klarg's Cave](./cragmaw-hideout-8-klargs-cave.md)**
 
 ### [Triboar Trail](../locations/triboar-trail.md)
-- **[Goblin Ambush](./goblin-ambush.md)**
+- **[Goblin Ambush](./tribor-trail-goblin-ambush.md)**
 
 ---
 [Back](../index.md)
