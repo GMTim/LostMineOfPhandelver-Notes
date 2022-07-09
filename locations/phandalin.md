@@ -22,6 +22,20 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
 ### Points of Interest
 >### Alderleaf Farm
 >### Barthens Provisions
+**Description**
+- Large log building with large red letters that say "Barthens Provisions".
+
+**DM Notes**
+- Sells any [adventuring gear](https://5e.tools/quickreference.html#bookref-quick,1,adventuring%20gear) up to 25gp in cost.
+- Does not sell weapons.
+- Two clerks work here, Ander and Thistle.
+- Propriteor is [Elmar Barthen](../npcs/elmar-barthen.md).
+  - If characters deliver supplies, [Elmar](../npcs/elmar-barthen.md) will pay them 10gp each.
+  - Is sad to hear of [Gundren Rockseeker](../npcs/gundren-rockseeker.md), and encourages party to find him.
+  - Tells them about [Wave Echo Cave](../locations/wave-echo-cave.md) if [Sildar Hallwinter](../npcs/sildar-hallwinter.md) didn't. See [Goblin Den](../locations/cragmaw-hideout.md#6-goblin-den).
+  - Tells party about [Nundro](../npcs/nundro-rockseeker.md) and Tharden Rockseeker, [Gundren's](../npcs/gundren-rockseeker.md) brothers. They are camping somewhere out of town, and haven't been seen in a tenday, so they are due any day for a resupply.
+    - He doesn't know Tharden is dead, and [Nundro](../npcs/nundro-rockseeker.md) is trapped in [Wave Echo Cave](../locations/wave-echo-cave.md).
+  - If asked about business, [Elmar](../npcs/elmar-barthen.md) tells them the [Redbrands](#event---redbrands) are shaking businesses down, and flouting the [townmaster's](#townmasters-hall) authority. Suggests if the party wants to deal with them they can be found at [The Sleeping Giant](#the-sleeping-giant).
 
 >### Edermath Orchard
 >### Lionshield Coster
@@ -36,7 +50,9 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
 - Young man wearing an apron calls to you from the bar.
 
 **DM Instructions**
-- 6 Rooms for rent, [Sildar](../npcs/sildar-hallwinter.md) rents one.
+- 6 Rooms for rent, [Sildar](../npcs/sildar-hallwinter.md) rents one. Costs 8sp per night for a comfortable room.
+- Meals are 5sp.
+- Ale 4cp.
 - [Toblen Stonehill](../npcs/toblen-stonehill.md) greets the players.
   - Came to town looking to mine, was better inn keeper.
   - Dislikes [Harbin Wester](../npcs/harbin-wester.md), the townmaster, because he has been letting the [Redbrands](#event---redbrands) harass the town.
