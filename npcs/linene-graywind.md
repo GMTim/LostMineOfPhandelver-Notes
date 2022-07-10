@@ -1,6 +1,9 @@
 # Linene Graywind
 
 **Description**
+- Human woman
+- Sharp-tounged
+- 35 years old
 ___
 >## Commoner
 >*Medium humanoid (any race), any alignment*

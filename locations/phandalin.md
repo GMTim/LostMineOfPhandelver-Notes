@@ -29,7 +29,7 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
 - Sells any [adventuring gear](https://5e.tools/quickreference.html#bookref-quick,1,adventuring%20gear) up to 25gp in cost.
 - Does not sell weapons.
 - Two clerks work here, Ander and Thistle.
-- Propriteor is [Elmar Barthen](../npcs/elmar-barthen.md).
+- Proprietor is [Elmar Barthen](../npcs/elmar-barthen.md).
   - If characters deliver supplies, [Elmar](../npcs/elmar-barthen.md) will pay them 10gp each.
   - Is sad to hear of [Gundren Rockseeker](../npcs/gundren-rockseeker.md), and encourages party to find him.
   - Tells them about [Wave Echo Cave](../locations/wave-echo-cave.md) if [Sildar Hallwinter](../npcs/sildar-hallwinter.md) didn't. See [Goblin Den](../locations/cragmaw-hideout.md#6-goblin-den).
@@ -43,10 +43,22 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
 
 **DM Notes**
 - Owned by [Daran Edermath](../npcs/daran-edermath.md), retired adventurer.
-- [Daran](../npcs/daran-edermath.md) doesn't like the [Redbrands](#event---redbrands), and espcially their leader, Glasstaff. He knows they hang out in [The Sleeping Giant](#the-sleeping-giant), but that their [main headquarters](../locations/redbrand-hideout.md) is under [Tresendar Manor](#tresendar-manor).
+- [Daran](../npcs/daran-edermath.md) doesn't like the [Redbrands](#event---redbrands), and especially their leader, Glasstaff. He knows they hang out in [The Sleeping Giant](#the-sleeping-giant), but that their [main headquarters](../locations/redbrand-hideout.md) is under [Tresendar Manor](#tresendar-manor).
 - [Daran](../npcs/daran-edermath.md) asks the players if they'd be willing to go to the [Old Owl Well](../locations/old-owl-well.md) couple of days northeast. He's heard of miners being chased away from the area, and rumors of undead. There is an old Netheril tower there, and it might have old wrong magics.
 
 >### Lionshield Coster
+**Description**
+- Modest building
+- Sign shaped like a wooden shield with a blue lion painted on it.
+
+**GM Notes**
+- Owned by the Lionshield Trade Goods company. Based in Yartar over 100 miles east.
+- Master of this post is [Linene Graywind](../npcs/linene-graywind.md).
+  - She doesn't know who's been stealing her caravans.
+  - Says to steer clear of the [Redbrands](#event---redbrands), and [The Sleeping Giant](#the-sleeping-giant).
+  - Offers 50gp for returned goods, or their location, and will help adventurers how she can.
+- Offerts [adventureing gear](https://5e.tools/quickreference.html#bookref-quick,1,adventuring%20gear), but supplies are limited (50% chance its out, 25% chance if goods returned).
+- Offers [armor](https://5e.tools/quickreference.html#bookref-quick,1,armor%20and%20shields) and [weapons](https://5e.tools/quickreference.html#bookref-quick,1,weapons). (50% chance she doesn't have it).
 >### Phandalin Miner's Exchange
 >### Shirne of Luck
 >### The Sleeping Giant
