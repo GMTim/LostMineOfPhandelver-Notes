@@ -1,6 +1,9 @@
 # Halia Thornton
 
 **Description**
+- Human Woman
+- Ambitious
+- Calculating
 ___
 >## Commoner
 >*Medium humanoid (any race), any alignment*

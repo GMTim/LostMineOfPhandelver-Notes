@@ -59,7 +59,19 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
   - Offers 50gp for returned goods, or their location, and will help adventurers how she can.
 - Offerts [adventureing gear](https://5e.tools/quickreference.html#bookref-quick,1,adventuring%20gear), but supplies are limited (50% chance its out, 25% chance if goods returned).
 - Offers [armor](https://5e.tools/quickreference.html#bookref-quick,1,armor%20and%20shields) and [weapons](https://5e.tools/quickreference.html#bookref-quick,1,weapons). (50% chance she doesn't have it).
+
 >### Phandalin Miner's Exchange
+**Description**
+- A larger wooden building near the entrence to town.
+- A large pickaxe sign on the front of the building.
+
+**GM Notes**
+- Prospectors come to the exchange to get finds valued.
+- Exchance also issues claims, and acts as the land authority without a proper lord in the area.
+- Exhance is run by [Halia Thornton](../npcs/halia-thornton.md), a secrect agent of the Zhentarim.
+  - Halia offers the party 100gp to go and kill the leader of the [Redbrands](#event---redbrands), named Glasstaff, and to bring her any correspondence found in his quarters. She tells them they hang out in [The Sleeping Ginat](#the-sleeping-giant), but also they have a [secret hideout](../locations/redbrand-hideout.md) under [Tresendar Manor](#tresendar-manor).
+     - `DC 15 Insight` check to tell she has other motives then just doing a good deed.
+
 >### Shirne of Luck
 >### The Sleeping Giant
 >### Stonehill Inn
