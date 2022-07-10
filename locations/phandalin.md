@@ -21,6 +21,18 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
 
 ### Points of Interest
 >### Alderleaf Farm
+**Description**
+- Small farm on the south side of town.
+- Single farm house and barn with hay loft.
+- Large plowed field.
+
+**DM Notes**
+- [Qelline Alderleaf](../npcs/qelline-alderleaf.md) runs the farm.
+  - She knows a lot about whats happening in town.
+  - Offers to let player sleep in her hay loft if they don't want to stay at [Stonehill Inn](#stonehill-inn).
+  - Son Carp saw a hidden cave where two big bandits and two [Redbrands](#event---redbrands) met up, and thinks its a secret entrance into their [hideout](../locations/redbrand-hideout.md). It is and leads to [area 8](../locations/redbrand-hideout.md#8-crevasse).
+  - If she figures out the party is looking for someplace, she suggests going to see her friend [Reidoth](../npcs/reidoth) a druid. He was last headed for a ruined town called [Thundertree](../locations/ruins-of-thundertree.md) about 50 miles from here.
+
 >### Barthens Provisions
 **Description**
 - Large log building with large red letters that say "Barthens Provisions".

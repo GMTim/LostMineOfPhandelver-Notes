@@ -1,9 +1,12 @@
 # Qelline Alderleaf
 
 **Description**
+- Halfling Woman
+- Wise
+- Welcoming
 ___
 >## Commoner
->*Medium humanoid (any race), any alignment*
+>*Small humanoid (any race), any alignment*
 >___
 >- **Armor Class** 10
 >- **Hit Points** 4 (1d8)
