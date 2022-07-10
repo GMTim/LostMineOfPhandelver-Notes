@@ -38,6 +38,14 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
   - If asked about business, [Elmar](../npcs/elmar-barthen.md) tells them the [Redbrands](#event---redbrands) are shaking businesses down, and flouting the [townmaster's](#townmasters-hall) authority. Suggests if the party wants to deal with them they can be found at [The Sleeping Giant](#the-sleeping-giant).
 
 >### Edermath Orchard
+**Description**
+- Cottage next to apple orchard.
+
+**DM Notes**
+- Owned by [Daran Edermath](../npcs/daran-edermath.md), retired adventurer.
+- [Daran](../npcs/daran-edermath.md) doesn't like the [Redbrands](#event---redbrands), and espcially their leader, Glasstaff. He knows they hang out in [The Sleeping Giant](#the-sleeping-giant), but that their [main headquarters](../locations/redbrand-hideout.md) is under [Tresendar Manor](#tresendar-manor).
+- [Daran](../npcs/daran-edermath.md) asks the players if they'd be willing to go to the [Old Owl Well](../locations/old-owl-well.md) couple of days northeast. He's heard of miners being chased away from the area, and rumors of undead. There is an old Netheril tower there, and it might have old wrong magics.
+
 >### Lionshield Coster
 >### Phandalin Miner's Exchange
 >### Shirne of Luck
