@@ -8,7 +8,8 @@
 [Townmaster's Hall](#townmasters-hall) | [Tresendar Manor](#tresendar-manor)
 
 ### History
-The town was once destroyed by evil wizards, and orcs hundreds of years ago. In the last four years or so it has been rebuilt by settlers from cities in the Sword Coast.
+The town was once destroyed by evil wizards, and orcs hundreds of years ago. In the last four years or so it has been rebuilt by settlers from cities in the Sword Coast.  
+Phandalin has no government, but elects someone townmaster each year. Townmaster is judge in minor disputes, and record keeper of the town.
 
 ### Description
  - 40-50 simple log buildings.
@@ -17,7 +18,11 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
  - Children are at play on the town green, and townsfolk are running errands.
  - If [Sildar](../npcs/sildar-hallwinter.md) is with the party he suggests the party heads to the [Stonehill Inn](#stonehill-inn).
 
+**GM Notes**
+- If at anytime the players leave town for whatever reason, see [Overland](../locations/overland.md) location.
+
  ### **Event - Redbrands**
+ If players have been in town a few days and haven't encountered the Redbrands, run encounter [Redbrand Ruffians](../encounters/phandalin-redband-ruffians.md).
 
 ### Points of Interest
 >### Alderleaf Farm
@@ -129,7 +134,28 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
  5. "[Qelline Alderleaf](../npcs/qelline-alderleaf.md) son Carp said he found a secret tunnel in the woods, but Redbrands almost caught him." - Pip, innkeeper's son talking to some other children before they run out to play.
  6. "The [Redbrands](#event---redbrands) hassle every business in town, except for the Phandalin Miner's Exchange. They don't want trouble with [Halia Thornton](../npcs/halia-thornton.md), who runs it." - A group of weaver women talking, or Freda, a weaver, talking to the players.
 >### Townmaster's Hall
+**Description**
+- Sturdy stone building.
+- Pitched wooden roof.
+- Bell tower at the back of the building.
+- Board next to the front door with a notice posted on it.
+  - Notice says "REWARD - Orcs near Wyvern Tor! Those of a mind to face the orc menace should inquire within."
+
+**GM Notes**
+- Townmaster is currently [Harbin Wester](../npcs/harbin-wester.md).
+  - Intimidated by [Redbrands](#event---redbrands), claims they are a mercenary guild, and not causing that much trouble.
+  - Offers 100gp to deal with orcs at [Wyvern Tor](../locations/wyvern-tor.md).
+- Hall has small jail with two cells. [Harbin](../npcs/harbin-wester.md) has the keys.
+- After a few days [Sildar Hallwinter](../npcs/sildar-hallwinter.md) becomes a fixture at Townmaster's Hall.
+  - He offers 500gp to the party to locate and clear out [Cragmaw Castle](../locations/cragmaw-castle.md). Suggests finding other goblins and squeezing them for information.
+  - After a few more days, he hears that the person he is looking for (Iarna Albrek) was last seen around [Tresendar Manor](#tresendar-manor). Offers the party 200gp for the safe return of Iarna. He doesn't know that Iarna has become Glassstaff and started the [Redbrand](#event---redbrands) threat.
 >### Tresendar Manor
+**Description**
+- An old structure closer to castle then house.
+- Shell of an old building, but cellers seem intact.
+
+**GM Notes**
+- The cellers are the location of the [Redbrand Hideout](../locations/redbrand-hideout.md). Continue with that location.
 
 ---
 [Back](./locations.md)

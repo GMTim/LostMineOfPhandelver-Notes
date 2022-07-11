@@ -1,6 +1,9 @@
 # Harbin Wester
 
 **Description**
+- Human male
+- Fat
+- Pompous old fool
 ___
 >## Commoner
 >*Medium humanoid (any race), any alignment*
