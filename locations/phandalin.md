@@ -84,8 +84,26 @@ The town was once destroyed by evil wizards, and orcs hundreds of years ago. In 
   - Halia offers the party 100gp to go and kill the leader of the [Redbrands](#event---redbrands), named Glasstaff, and to bring her any correspondence found in his quarters. She tells them they hang out in [The Sleeping Ginat](#the-sleeping-giant), but also they have a [secret hideout](../locations/redbrand-hideout.md) under [Tresendar Manor](#tresendar-manor).
      - `DC 15 Insight` check to tell she has other motives then just doing a good deed.
 
->### Shirne of Luck
+>### Shrine of Luck
+**Description**
+- A small stone building with the likness of a gold coin with a smiling woman inside of it painted above the entrance.
+
+**GM Notes**
+- Shrine to [Tymora](https://forgottenrealms.fandom.com/wiki/Tymora).
+- Run by [Sister Garaele](../npcs/sister-garaele.md). Shes a member of the harpers.
+  - She asks players go find a banshee named Agatha, and inquire about the location of a spellbook that use to belong to Bowgentle, a lengendary mage.
+  - She gives them a silver comb, and says the characters can use it and flattery to get the banshee to appear.
+  - Agatha is in [Conyberry](conyberry-and-agathas-lair.md).
+
 >### The Sleeping Giant
+**Description**
+- Dirty, rundown
+- End of mainstreet
+
+**GM Notes**
+- Run by a surly female dwarf named Grista.
+- Run encounter [Redband Ruffians](../encounters/phandalin-redband-ruffians.md).
+
 >### Stonehill Inn
 **Description**
 - Located in center of town.

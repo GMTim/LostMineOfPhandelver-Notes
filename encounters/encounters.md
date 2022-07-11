@@ -8,6 +8,9 @@
 - **[7. Tiwn Pools Cave](./cragmaw-hideout-7-twin-pools-cave.md)**
 - **[8. Klarg's Cave](./cragmaw-hideout-8-klargs-cave.md)**
 
+### [Phandalin](../locations/phandalin.md)
+- **[Redbrand Ruffians](./phandalin-redband-ruffians.md)**
+
 ### [Triboar Trail](../locations/triboar-trail.md)
 - **[Goblin Ambush](./tribor-trail-goblin-ambush.md)**
 
